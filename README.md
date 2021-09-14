@@ -4,3 +4,4 @@ A 2-Player math game where players take turns to answer simple math addition pro
 
 #FINAL PRODUCT
 
+[Screenshot of Example Prompt](https://github.com/saifali-95/MathGame/blob/master/pictures/mathGame.png)
